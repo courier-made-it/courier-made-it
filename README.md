@@ -1,10 +1,10 @@
 -  courier B)
 -  i drink da milk
--  i make robots?!
+-  touches grass?!
 -  favorite color is 42
 -  find me on discord `@laugh.track`
 -  criminally male
--  no my name is not actually courier
+-  i like da programming
 
 <!---
 courier-made-it/courier-made-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
